@@ -1,4 +1,4 @@
-<h1 align="left">Hi (❁´◡`❁)! My name is Aayu and I'm a Student!</h1>
+<h1 align="left">Hi (❁´◡`❁)! My name is <span style="color:yellow;">Aayu</span> and I'm a <span style="color:blue;">Student!</span></h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ctcv9kcrrch2lf4xra023d4f7&count=3&unique=true" alt="Spotify recently played"  target="_blank"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ctcv9kcrrch2lf4xra023d4f7&count=3&unique=true" alt="Spotify recently played"  style="background-color:#ccc;" target="_blank"/>
   </a>
 </div>
 
