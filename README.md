@@ -52,4 +52,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/JUCILY117/JUCILY117/raw/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/JUCILY117/JUCILY117/raw/github-contribution-grid-snake.svg)-->
