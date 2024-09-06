@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JUCILY117/JUCILY117/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JUCILY117/JUCILY117/blob/master/snake.svg" alt="Snake animation" />
 
 ###
