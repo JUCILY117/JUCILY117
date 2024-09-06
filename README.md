@@ -1,4 +1,4 @@
-<h1 align="left">Hi (❁´◡`❁)! My name is <b>Aayu</b> and I'm a <i>Student!</i></h1>
+<h1 align="left">Hi (❁´◡`❁)! My name is **Aayu** and I'm a _Student!_</h1>
 
 ###
 
@@ -52,4 +52,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/JUCILY117/JUCILY117/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JUCILY117/JUCILY117/raw/github-contribution-grid-snake.svg)
