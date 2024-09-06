@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUCILY117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages%20I%20use" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,14 +38,20 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/UePqw3aFDY8AAAAM/emma-myers-wednesday-netflix.gif"  />
+<img align="left" height="250" src="https://media.tenor.com/UePqw3aFDY8AAAAM/emma-myers-wednesday-netflix.gif"  />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ctcv9kcrrch2lf4xra023d4f7&unique={true|1|on|yes}" style="background-color:#ccc"/>
+  <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ctcv9kcrrch2lf4xra023d4f7&count=3&unique=true" alt="Spotify recently played"  target="_blank"/>
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JUCILY117/JUCILY117/output/snake.svg" alt="Snake animation" />
 
 ###
