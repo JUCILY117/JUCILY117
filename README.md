@@ -1,4 +1,4 @@
-<h1 align="left">Hi (❁´◡`❁)! My name is **Aayu** and I'm a Student!</h1>
+<h1 align="left">Hi (❁´◡`❁)! My name is <b>Aayu</b> and I'm a <i>Student!</i></h1>
 
 ###
 
