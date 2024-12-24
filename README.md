@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="250" src="https://news.cgtn.com/news/2024-08-24/It-s-him-The-real-actor-behind-Black-Myth-Wukong--1wkh8qr250c/img/f6f4066c85794661b7d3cfcac75acb08/f6f4066c85794661b7d3cfcac75acb08.gif" />
+<img align="left" height="250" src="https://i.ibb.co/Qdft87y/artworks-rbt-CJUZGY6hg-F0ao-a-WH2-JQ-t500x500.jpg" />
 
 ###
 
