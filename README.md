@@ -38,8 +38,6 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/757149518704803951)](https://discord.com/users/757149518704803951)
-
 ###
 
 <div align="center">
