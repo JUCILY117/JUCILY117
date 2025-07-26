@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="250" src="https://i.ibb.co/Qdft87y/artworks-rbt-CJUZGY6hg-F0ao-a-WH2-JQ-t500x500.jpg" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/757149518704803951)](https://discord.com/users/757149518704803951)
 
 ###
 
