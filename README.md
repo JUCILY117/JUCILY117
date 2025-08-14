@@ -5,8 +5,8 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm currently learning **TypeScript**, **Next.js**, and **Cloud Platforms**
-- 💬 Ask me about **React**, **Frontend Design**, and **Android Studio**
+- 🎓 I'm currently learning **Rust**, **Machine Learning**, and **Cloud Platforms**
+- 💬 Ask me about **NodeJS**, **Backend Server**, and **Hardware Systems**
 - 🎧 I love music while coding. Check out what I’m listening to below!
 
 ---
