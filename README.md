@@ -44,6 +44,7 @@
 
 <div align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&redirect=true"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="20%" alt="Spotify Now Playing" /> </a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&redirect=true"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="20%" alt="Spotify Now Playing" /> </a>
 </div>
 
 ---
