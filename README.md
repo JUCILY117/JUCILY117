@@ -42,11 +42,7 @@
 
 ### 🎧 Spotify – What I’m Listening To
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&redirect=true)
 
 ---
 
