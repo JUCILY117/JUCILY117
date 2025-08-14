@@ -1,53 +1,81 @@
-<h1 align="left">Hi (❁´◡`❁)! My name is <b>Aayu</b> and I'm a <i>Student!</i></h1>
+<h1 align="center">Hi there! (❁´◡`❁) I'm <b>Aayu</b> 👋</h1>
+<h3 align="center">I'm a passionate student exploring tech, development, and creativity.</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUCILY117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages%20I%20use" height="150" alt="languages graph" />
-</div>
+### 🧠 About Me
 
-###
+- 🎓 I'm currently learning **TypeScript**, **Next.js**, and **Cloud Platforms**
+- 💬 Ask me about **React**, **Frontend Design**, and **Android Studio**
+- 🎧 I love music while coding. Check out what I’m listening to below!
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-</div>
+---
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
-</div>
-
-###
-
-###
+### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ctcv9kcrrch2lf4xra023d4f7&count=3&unique=true" alt="Spotify recently played" style="background-color:#ccc;" target="_blank"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use" height="150"/>
+</div>
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  
+**Languages & Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
+
+**Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP"/>
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" />
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" />
+  </a>
+  <a href="https://twitch.tv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🎧 Spotify – What I’m Listening To
 
-<!--![Snake animation](https://github.com/JUCILY117/JUCILY117/raw/github-contribution-grid-snake.svg)-->
+<div align="center">
+  <a href="https://open.spotify.com/user/ctcv9kcrrch2lf4xra023d4f7" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" />
+  </a>
+</div>
+
+---
+
+### 🐍 GitHub Contributions
+
+<!-- This snake animation works if enabled in your GitHub repo settings and the file exists -->
+![Snake animation](https://github.com/JUCILY117/JUCILY117/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
