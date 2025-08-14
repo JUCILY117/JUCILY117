@@ -40,25 +40,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" />
-  </a>
-</div>
-
----
-
 ### 🎧 Spotify – What I’m Listening To
 
 <div align="center">
@@ -72,7 +53,7 @@
 ### 🐍 GitHub Contributions
 
 <!-- This snake animation works if enabled in your GitHub repo settings and the file exists -->
-![Snake animation](https://github.com/JUCILY117/JUCILY117/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/JUCILY117/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
