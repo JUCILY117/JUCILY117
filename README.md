@@ -12,11 +12,16 @@
 ---
 
 ### 📈 GitHub Stats
-<div class="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use%v=2)]
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
+  </a>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use&v=2" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -43,7 +48,9 @@
 ### 🎧 Spotify – What I’m Listening To
 
 <div align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&redirect=true"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="20%" alt="Spotify Now Playing" /> </a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ctcv9kcrrch2lf4xra023d4f7&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="20%" alt="Spotify Now Playing" />
+</a>
 </div>
 
 ---
