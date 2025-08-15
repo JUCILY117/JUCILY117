@@ -14,8 +14,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  [![JUCILY117's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![JUCILY117's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="JUCILY117's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use" alt="Top Languages Used" />
 </div>
 
 ---
