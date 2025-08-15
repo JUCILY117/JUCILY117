@@ -13,7 +13,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="center flex flex-row">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
   </a>
