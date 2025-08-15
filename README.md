@@ -12,10 +12,11 @@
 ---
 
 ### 📈 GitHub Stats
+<div class="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2)]
 
-[![JUCILY117's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUCILY117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUCILY117&layout=compact&theme=dracula&langs_count=6&card_width=300&custom_title=Languages%20I%20Use%v=2)]
+</div>
 
 ---
 
